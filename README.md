@@ -1,5 +1,5 @@
 # Lull
-Lull is a Android mobile application where you can download wallpapers made with Jetpack Compose.
+Lull is an Android mobile application made with Jetpack Compose, where you can download wallpapers.
 
 ## Table of Contents
 - [Features](#features)
