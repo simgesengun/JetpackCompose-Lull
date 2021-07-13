@@ -19,7 +19,7 @@ Lull is an Android mobile application made with Jetpack Compose, where you can d
 ## Screenshots
 
 ### Light Mode
-<img src="/screenshots/light_homepage.png" width="266"><img src="/screenshots/light_details.png" width="266"><img src="/screenshots/light_search.png" width="266">
+<img src="/screenshots/light_homepage.png" width="300"><img src="/screenshots/light_details.png" width="300"><img src="/screenshots/light_search.png" width="300">
 
 ### Dark Mode
-<img src="/screenshots/dark_homepage.png" width="266"><img src="/screenshots/dark_details.png" width="266"><img src="/screenshots/dark_search.png" width="266">
+<img src="/screenshots/dark_homepage.png" width="300"><img src="/screenshots/dark_details.png" width="300"><img src="/screenshots/dark_search.png" width="300">
