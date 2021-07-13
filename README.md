@@ -12,7 +12,7 @@ Lull is an Android mobile application made with Jetpack Compose, where you can d
 
 - Works with API 21+
 - Used Coroutines in order to achive smooth downloading experience without interfering with the UI.
-- Creates seperate folder in the gallery where you can access all the wallpapers.
+- Creates seperate folder in the gallery where you can access all the wallpapers that you have downloaded.
 - You can search tags or click on a tag in order to see all the wallpapers with it.
 - Worked with string resources so it is easy to translate to other languages.
 
